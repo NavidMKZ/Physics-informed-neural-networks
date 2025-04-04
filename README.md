@@ -12,20 +12,5 @@ This repository contains simple Python examples of Physics-Informed Neural Netwo
 
 * Python 3.x  
 * NumPy  
-* PyTorch or TensorFlow  
+* PyTorch  
 * Matplotlib for visualization  
-
-### Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone <repository_url>
-   ```
-2. Install the required libraries:  
-   ```bash
-   pip install numpy torch matplotlib
-   ```
-3. Run the example script:  
-   ```bash
-   python pinn_example.py
-   ```
